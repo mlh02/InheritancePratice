@@ -1,0 +1,12 @@
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/bin/Debug/netcoreapp3.1/InheritancePractice.deps.json
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/bin/Debug/netcoreapp3.1/InheritancePractice.runtimeconfig.json
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/bin/Debug/netcoreapp3.1/InheritancePractice.runtimeconfig.dev.json
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/bin/Debug/netcoreapp3.1/InheritancePractice.dll
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/bin/Debug/netcoreapp3.1/InheritancePractice.pdb
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.csprojAssemblyReference.cache
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.AssemblyInfoInputs.cache
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.AssemblyInfo.cs
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.csproj.CoreCompileInputs.cache
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.dll
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.pdb
+/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/obj/Debug/netcoreapp3.1/InheritancePractice.genruntimeconfig.cache

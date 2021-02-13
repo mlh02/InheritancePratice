@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Up3WfJltBiNKP5DoP5uWlpEGGAmFgPQncdOocCO12CHRE5FPm/N6k0jNbSYWH+0FbNUB692fUiUxLFgqlq0EVA==",
+  "success": true,
+  "projectFilePath": "/Users/montygouki/Desktop/ASP.NET/InheritancePractice/InheritancePractice/InheritancePractice.csproj",
+  "expectedPackageFiles": [
+    "/Users/montygouki/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
